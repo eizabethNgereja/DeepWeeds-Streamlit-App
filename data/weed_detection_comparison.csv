@@ -1,0 +1,6 @@
+Model,Weed predicted as Negative,Negative correctly identified,Negative predicted as Weed
+Baseline SVM,754,1735,87
+Class-weighted SVM,63,961,861
+Tuned SVM,410,1706,116
+Baseline CNN,408,1619,203
+Class-weighted CNN,75,1010,812
